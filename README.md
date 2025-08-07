@@ -3,7 +3,7 @@
 ### 2. Titanic - Machine Learning from Disaster
  
 ## Tools Employed:
-**Python**
-**Google Colab**
-**Libraries - Scikit-Learn, Numpy , Pandas, Matplotlib, Seaborn**
+**Python**<br/>
+**Google Colab**<br/>
+**Libraries - Scikit-Learn, Numpy , Pandas, Matplotlib, Seaborn**<br/>
 פ
