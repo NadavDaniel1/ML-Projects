@@ -5,5 +5,5 @@
 ## Tools Employed:
 **Python**<br />
 **Google Colab**<br />
-**Libraries - Scikit-Learn, Numpy , Pandas, Matplotlib, Seaborn** <br />
+**Libraries - Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn** <br />
 
